@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I am charchit. I am 14 years old, I love to code.
 
-- 🔭 I’m currently working on a covid tracker api and a stackoverfow clone with flask.
+- 🔭 I’m currently working on a flask-chatapp and a stackoverfow clone with flask.
 - 🌱 I’m currently learning web development, gui development.
 - 👯 I’m looking to collaborate on web developement.
 - I know python(flask,tkinter,pygame), web development(javascript,html,css,nodejs), php.
