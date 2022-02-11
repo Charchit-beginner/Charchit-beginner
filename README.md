@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am charchit, I love to code.
+### I am charchit.
 
 - 🔭 I’m currently working on a react stackoverflow-clone.
 - 🌱 I’m currently learning web development, gui development , openCV.
