@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### I am charchit.
 
-- 🔭 I’m currently working on a react stackoverflow-clone.
+- 🔭 I’m currently working on a stackoverflow-clone and full stack nodejs blog app with some small projects
 - 🌱 I’m currently learning web development, gui development , openCV.
 - 👯 I’m looking to collaborate on web developement.
 - I know python(flask,tkinter,pygame), web development(javascript,html,css,nodejs,reactjs,jquery), php, java, .
